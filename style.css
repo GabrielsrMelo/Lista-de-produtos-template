@@ -33,7 +33,7 @@ body {
 }
 .card:hover {
     transform: scale(1.1);
-    box-shadow: 0 12px 24px rgba(80, 224, 111, 0.671);
+    box-shadow: 0 12px 24px rgba(65, 190, 228, 0.801);
 }
 
 .card img {
